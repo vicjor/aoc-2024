@@ -19,6 +19,7 @@
 .classpath
 .factorypath
 .gradle
+.idea/
 .idea/compiler.xml
 .idea/jarRepositories.xml
 .idea/libraries/
