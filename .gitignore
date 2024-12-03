@@ -38,3 +38,4 @@
 bin/
 build/
 out/
+src/main/resources/day*.txt
